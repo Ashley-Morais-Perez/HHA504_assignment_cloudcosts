@@ -1,2 +1,2 @@
-#Cost Mangement and Billing Dashboards
-##Azure
+Cost Management and Billing Dashboards
+Azure
